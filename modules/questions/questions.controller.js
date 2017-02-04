@@ -45,7 +45,7 @@ function list(req, res) {
 
 }
 
-function item(req, res) {
+function question(req, res) {
 
 }
 
@@ -53,4 +53,4 @@ function create(req, res) {
 
 }
 
-module.exports = {list, item, create};
+module.exports = {list, question, create};

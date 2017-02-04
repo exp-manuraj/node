@@ -13,7 +13,7 @@ var routes = (authenticate) => {
 
 	//api/question/4
 	router.route("/:id")
-		.get(authenticate, controller.questions);
+		.get(authenticate, controller.question);
 
 	return router;
 }
