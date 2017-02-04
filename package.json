@@ -28,7 +28,9 @@
         "request": "^2.79.0",
         "sendgrid": "^4.7.1",
         "underscore-node": "^0.1.2",
-        "uuid": "^3.0.1"
+        "uuid": "^3.0.1",
+        "request": "^2.79.0"
+
     },
     "devDependencies": {
         "expect": "^1.20.2",

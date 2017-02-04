@@ -2,7 +2,7 @@
 
 const dependencies = [
     'auth',
-    'items'
+    'questions'
 ];
 
 
