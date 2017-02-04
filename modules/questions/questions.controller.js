@@ -1,6 +1,8 @@
 var Learnosity = require('learnosity-sdk-nodejs');
 const config = require('../../config');
 var request = require('request');
+var _ = require('lodash');
+
 /**
  * @api {GET} /questions List questions
  * @apiName List
